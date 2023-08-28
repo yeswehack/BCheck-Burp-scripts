@@ -1,4 +1,8 @@
-This repository contains a small collection of Burp Suite BCheck scripts developed by YesWeHack.
+<h1 align="center">
+ <img src="./img/banner.jpg">
+</h1>
+
+This repository contains a small collection of [Burp Suite BCheck scripts](https://portswigger.net/burp/documentation/scanner/bchecks) developed by YesWeHack.  
 Our blog post "*[PimpMyBurp #9 – Use BCheck to improve vulnerability scanning](https://blog.yeswehack.com/yeswerhackers/pimpmyburp-9-use-bcheck-to-improve-vulnerability-scanning/)*" explains some of the BCheck in this repository in more detail and how you can use BCheck in your bug bounty hunt to detect security issues in your targets.
 
 > You can find all these BCheck scripts and a lot more in [Portswigger's BCheck repository](https://github.com/PortSwigger/BChecks) that have a collection of BCheck scripts provided by the community!
