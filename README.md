@@ -4,9 +4,9 @@ Our blog post "*[PimpMyBurp #9 – Use BCheck to improve vulnerability scanning]
 > You can find all these BCheck scripts and a lot more in [Portswigger's BCheck repository](https://github.com/PortSwigger/BChecks) that have a collection of BCheck scripts provided by the community!
 
 ## Covered CWEs
-- [Protection mechanism failure](https://cwe.mitre.org/data/definitions/693.html) (*Firewall bypass*) - CWE-693
-- [Improper Neutralization of Special Elements Used in a Template Engine](https://cwe.mitre.org/data/definitions/1336.html) (*Template injection*)- CWE-1336
-- [Authentication Bypass Using an Alternate Path or Channel](https://cwe.mitre.org/data/definitions/288.html) (*Bypass the protection of 403/401 paths*) - CWE-288
-- [Exposure of Sensitive System Information to an Unauthorized Control Sphere](https://cwe.mitre.org/data/definitions/497.html) (Information gathering) -  CWE-497
+- [Protection mechanism failure](https://cwe.mitre.org/data/definitions/693.html) - CWE-693
+- [Improper Neutralization of Special Elements Used in a Template Engine](https://cwe.mitre.org/data/definitions/1336.html) - CWE-1336
+- [Authentication Bypass Using an Alternate Path or Channel](https://cwe.mitre.org/data/definitions/288.html) - CWE-288
+- [Exposure of Sensitive System Information to an Unauthorized Control Sphere](https://cwe.mitre.org/data/definitions/497.html) -  CWE-497
 
-Should you encounter any issue with one of the provided BCheck scripts, open an *issue* in this Github repository and we'll take a look at how to fix it 📬
+Should you encounter any issue with one of the provided BCheck scripts, open an *issue* in this Github repository and we'll take a look at how to fix it! 📬
