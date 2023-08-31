@@ -43,6 +43,7 @@
 **/*.vscode
 **/*.vscode-test
 **/*.swp
+**/*.svn
 **/*.lock
 a.*
 x.*
