@@ -5,7 +5,7 @@ metadata:
     name: "Backend-language"
     description: "Passive scan for the programming language used by the backend"
     author: "Brumens"
-    tags: "passive", "live", "backend", "recon", "info", "programming language", "language"
+    tags: "passive", "live", "backend", "recon", "info", "lang", "language"
 
 define:
     desc = "The programming language of the application has been discovered"
